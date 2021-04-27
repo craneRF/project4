@@ -1,63 +1,10 @@
-﻿  main.cpp
-  ofApp.cpp
-  ofxBaseGui.cpp
-  ofxButton.cpp
-  ofxColorPicker.cpp
-  ofxGuiGroup.cpp
-  ofxInputField.cpp
-  ofxLabel.cpp
-  ofxPanel.cpp
-  ofxSlider.cpp
-  ofxSliderGroup.cpp
-  ofxToggle.cpp
-c:\project\of_v0.11.0_vs2017_release\libs\openframeworks\utils\ofutils.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxGui\src\ofxGuiGroup.cpp)
-c:\project\of_v0.11.0_vs2017_release\libs\openframeworks\utils\ofutils.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxGui\src\ofxPanel.cpp)
-c:\project\of_v0.11.0_vs2017_release\libs\openframeworks\utils\ofutils.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxGui\src\ofxBaseGui.cpp)
-c:\project\of_v0.11.0_vs2017_release\libs\openframeworks\utils\ofutils.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxGui\src\ofxInputField.cpp)
-c:\project\of_v0.11.0_vs2017_release\libs\openframeworks\utils\ofutils.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxGui\src\ofxButton.cpp)
-c:\project\of_v0.11.0_vs2017_release\libs\openframeworks\utils\ofutils.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxGui\src\ofxSliderGroup.cpp)
-c:\project\of_v0.11.0_vs2017_release\libs\openframeworks\utils\ofutils.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxGui\src\ofxSlider.cpp)
-c:\project\of_v0.11.0_vs2017_release\libs\openframeworks\utils\ofutils.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxGui\src\ofxToggle.cpp)
-c:\project\of_v0.11.0_vs2017_release\libs\openframeworks\utils\ofutils.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxGui\src\ofxLabel.cpp)
-c:\project\of_v0.11.0_vs2017_release\libs\openframeworks\utils\ofutils.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxGui\src\ofxColorPicker.cpp)
-c:\project\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofvec3f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxGui\src\ofxInputField.cpp)
-c:\project\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofvec2f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxGui\src\ofxInputField.cpp)
-c:\project\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofvec3f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxGui\src\ofxBaseGui.cpp)
-c:\project\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofvec2f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxGui\src\ofxBaseGui.cpp)
-c:\project\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofvec3f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxGui\src\ofxPanel.cpp)
-c:\project\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofvec3f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxGui\src\ofxGuiGroup.cpp)
-c:\project\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofvec2f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxGui\src\ofxPanel.cpp)
-c:\project\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofvec2f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxGui\src\ofxGuiGroup.cpp)
-c:\project\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofvec3f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxGui\src\ofxButton.cpp)
-c:\project\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofvec2f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxGui\src\ofxButton.cpp)
-c:\project\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofvec3f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxGui\src\ofxSliderGroup.cpp)
-c:\project\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofvec2f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxGui\src\ofxSliderGroup.cpp)
-c:\project\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofvec3f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxGui\src\ofxSlider.cpp)
-c:\project\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofvec2f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxGui\src\ofxSlider.cpp)
-c:\project\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofvec3f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxGui\src\ofxToggle.cpp)
-c:\project\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofvec2f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxGui\src\ofxToggle.cpp)
-c:\project\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofvec3f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxGui\src\ofxLabel.cpp)
-c:\project\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofvec2f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxGui\src\ofxLabel.cpp)
-c:\project\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofvec3f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxGui\src\ofxColorPicker.cpp)
-c:\project\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofvec2f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxGui\src\ofxColorPicker.cpp)
-c:\project\of_v0.11.0_vs2017_release\libs\openframeworks\utils\ofutils.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\main.cpp)
-c:\project\of_v0.11.0_vs2017_release\libs\openframeworks\utils\ofutils.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\ofApp.cpp)
-c:\project\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofvec3f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\main.cpp)
-c:\project\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofvec2f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\main.cpp)
-c:\project\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofvec3f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\ofApp.cpp)
-c:\project\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofvec2f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\ofApp.cpp)
-c:\project\of_v0.11.0_vs2017_release\addons\ofxgui\src\ofxinputfield.cpp(276): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
-  c:\project\of_v0.11.0_vs2017_release\addons\ofxgui\src\ofxinputfield.cpp(265): note: クラス テンプレート のメンバー関数 'void ofxInputField<float>::moveCursor(int)' のコンパイル中
-  c:\project\of_v0.11.0_vs2017_release\addons\ofxgui\src\ofxinputfield.cpp(368): note: コンパイル対象の関数 テンプレート インスタンス化 'void ofxInputField<float>::moveCursor(int)' のリファレンスを確認してください
-  c:\project\of_v0.11.0_vs2017_release\addons\ofxgui\src\ofxinputfield.cpp(805): note: コンパイル対象の クラス テンプレート インスタンス化 'ofxInputField<float>' のリファレンスを確認してください
+﻿  Source.cpp
      ライブラリ bin\project4_debug.lib とオブジェクト bin\project4_debug.exp を作成中
   project4.vcxproj -> C:\project\of_v0.11.0_vs2017_release\apps\myApps\project4\bin\project4_debug.exe
   
   	                   2	C:\project\of_v0.11.0_vs2017_release\libs\fmodex\lib\vs\Win32\
-  	  新しいファイル		 1266176	C:\project\of_v0.11.0_vs2017_release\libs\fmodex\lib\vs\Win32\fmodex.dll
-  	  新しいファイル		 1312768	C:\project\of_v0.11.0_vs2017_release\libs\fmodex\lib\vs\Win32\fmodexL.dll
+  	  *EXTRA File 		 6018560	C:\project\of_v0.11.0_vs2017_release\apps\myApps\project4\bin\FreeImage.dll
   
   	                   1	C:\project\of_v0.11.0_vs2017_release\libs\FreeImage\lib\vs\Win32\
   	  *EXTRA File 		 1266176	C:\project\of_v0.11.0_vs2017_release\apps\myApps\project4\bin\fmodex.dll
   	  *EXTRA File 		 1312768	C:\project\of_v0.11.0_vs2017_release\apps\myApps\project4\bin\fmodexL.dll
-  	  新しいファイル		 6018560	C:\project\of_v0.11.0_vs2017_release\libs\FreeImage\lib\vs\Win32\FreeImage.dll
